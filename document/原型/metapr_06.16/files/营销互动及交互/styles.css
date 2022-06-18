@@ -1,0 +1,40 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1082px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2994_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:957px;
+  height:71px;
+}
+#u2994 {
+  position:absolute;
+  left:125px;
+  top:107px;
+  width:957px;
+  height:71px;
+  font-family:'黑体 Regular', '黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+#u2995 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:953px;
+  word-wrap:break-word;
+}
